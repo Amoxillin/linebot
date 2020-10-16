@@ -1,7 +1,7 @@
 <?php
 
 
-$API_URL = 'https://sawaddee.herokuapp.com/bot.php';
+$API_URL = 'https://api.line.me/v2/bot/message';
 $ACCESS_TOKEN = 'l0QRJWB1D4gHdDPND+0Y9blpz/7abiFp0l1KdsAUd4GF4b70A9+crXGEZslp4HE9zQCG1rICub/PqYf2xBjjc1JqwZuQedOsZCyuXRnIVw5SNQht4dS1Wgt20TzoUfXqYikqdXnIBc7dIVhVD1ykHQdB04t89/1O/w1cDnyilFU='; 
 $channelSecret = '36d83e50f82e2637f118af1b912ab3c4';
 
