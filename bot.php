@@ -1,9 +1,9 @@
 <?php
 
 
-$API_URL = 'https://api.line.me/v2/bot/message';
-$ACCESS_TOKEN = 'ouhqskdRP/sUP8uwpjAadPDJz6rj1Y3IR0/ZznmHBgsPmYq6Q+hzdEJ4OXgyw/8NaLy6GLAZYYbLhF/7S6i8K07k3yxT0sWcMEa6ixgJ2c0XIOEKRfUEQAsHVi4PbQU4HEk9GOq/cmdR3iRkQE9e5gdB04t89/1O/w1cDnyilFU='; 
-$channelSecret = 'ba6e01c3eb0671a32e7d9fb3dbabd67d';
+$API_URL = 'https://sawaddee.herokuapp.com/bot.php';
+$ACCESS_TOKEN = 'l0QRJWB1D4gHdDPND+0Y9blpz/7abiFp0l1KdsAUd4GF4b70A9+crXGEZslp4HE9zQCG1rICub/PqYf2xBjjc1JqwZuQedOsZCyuXRnIVw5SNQht4dS1Wgt20TzoUfXqYikqdXnIBc7dIVhVD1ykHQdB04t89/1O/w1cDnyilFU='; 
+$channelSecret = '36d83e50f82e2637f118af1b912ab3c4';
 
 
 $POST_HEADER = array('Content-Type: application/json', 'Authorization: Bearer ' . $ACCESS_TOKEN);
